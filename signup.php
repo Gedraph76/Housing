@@ -47,7 +47,7 @@ if(isset($_POST['btn_signup'])){
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-lg-3- col-xl-3"></div>
-            <div class="col-md-6 col-lg-6- col-xl-6">
+            g<div class="col-md-6 col-lg-6- col-xl-6">
                 <div id="auth-form">
                     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'])?>" method="post">
                         <fieldset>

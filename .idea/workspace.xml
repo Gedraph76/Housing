@@ -12,7 +12,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YZ4ULtL2KkkATtZ8LH03uPYGMU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583136796541</updated>
-      <workItem from="1583136799060" duration="51000" />
+      <workItem from="1583136799060" duration="733000" />
     </task>
     <servers />
   </component>
@@ -52,9 +56,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="288" key="NewPhpFileDialog" timestamp="1583136810410">
+    <state x="518" y="288" key="NewPhpFileDialog" timestamp="1583138059950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583136810410" />
+    <state x="518" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583138059950" />
   </component>
 </project>
